@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLOG PESSOAL-", "BLOG PESSOAL-\BLOG PESSOAL-.csproj", "{2B84F2FF-3F73-4461-8068-0E58A43C239C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLOG PESSOAL-teste", "BLOG PESSOAL-teste\BLOG PESSOAL-teste.csproj", "{F29C8ED7-00E9-4F73-B772-D40992868023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B84F2FF-3F73-4461-8068-0E58A43C239C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B84F2FF-3F73-4461-8068-0E58A43C239C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B84F2FF-3F73-4461-8068-0E58A43C239C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B84F2FF-3F73-4461-8068-0E58A43C239C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F29C8ED7-00E9-4F73-B772-D40992868023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29C8ED7-00E9-4F73-B772-D40992868023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29C8ED7-00E9-4F73-B772-D40992868023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29C8ED7-00E9-4F73-B772-D40992868023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {029FD873-4765-4B1B-A510-2D8E13356D74}
+	EndGlobalSection
+EndGlobal
