@@ -11,6 +11,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+using Microsoft.EntityFrameworkCore;
+using BlogPessoal.src.data;
+
 namespace BLOG_PESSOAL_
 {
     public class Startup
@@ -29,6 +32,8 @@ namespace BLOG_PESSOAL_
                 .SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
                 .AddJsonFile("appsettings.json")
                 .Build();
+            services.AddDbContext<BlogPessoalContexto>(opt => opt.UseSqlServer(config.GetConnectionString("DefaultConnection")));
+
 
 
             services.AddControllers();
@@ -39,10 +44,11 @@ namespace BLOG_PESSOAL_
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env,BlogPessoalContexto contexto)
         {
             if (env.IsDevelopment())
             {
+                contexto.Database.EnsureCreated();
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "BLOG_PESSOAL_ v1"));

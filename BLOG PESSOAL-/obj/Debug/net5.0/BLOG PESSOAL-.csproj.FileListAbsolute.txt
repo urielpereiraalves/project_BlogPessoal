@@ -1,0 +1,60 @@
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\BLOG PESSOAL-.exe
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\BLOG PESSOAL-.deps.json
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\BLOG PESSOAL-.runtimeconfig.json
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\BLOG PESSOAL-.runtimeconfig.dev.json
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\BLOG PESSOAL-.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\BLOG PESSOAL-.pdb
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\BLOG PESSOAL-.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\BLOG PESSOAL-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\BLOG PESSOAL-.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\BLOG PESSOAL-.AssemblyInfo.cs
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\BLOG PESSOAL-.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\BLOG PESSOAL-.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\BLOG PESSOAL-.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\scopedcss\bundle\BLOG PESSOAL-.styles.css
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\staticwebassets\BLOG PESSOAL-.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\BLOG PESSOAL-.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\BLOG PESSOAL-.csproj.CopyComplete
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\BLOG PESSOAL-.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\refint\BLOG PESSOAL-.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\BLOG PESSOAL-.pdb
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\BLOG PESSOAL-.genruntimeconfig.cache
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\ref\BLOG PESSOAL-.dll
