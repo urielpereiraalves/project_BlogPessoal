@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using BlogPessoal.src.data;
+using BLOG_PESSOAL_.src.data;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using BLOG_PESSOAL_.src.modelos;
 using System.Linq;

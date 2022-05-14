@@ -21,7 +21,6 @@ C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug
 C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -58,3 +57,6 @@ C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug
 C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\BLOG PESSOAL-.pdb
 C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\BLOG PESSOAL-.genruntimeconfig.cache
 C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\ref\BLOG PESSOAL-.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\bin\Debug\net5.0\BLOG PESSOAL-.xml
+C:\Users\User\Desktop\BLOG ´PESSOAL\project_BlogPessoal\BLOG PESSOAL-\obj\Debug\net5.0\BLOG PESSOAL-.xml

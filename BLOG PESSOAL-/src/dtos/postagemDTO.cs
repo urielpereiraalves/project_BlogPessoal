@@ -1,16 +1,14 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
 namespace BLOG_PESSOAL_.src.dtos
-{
-    public class NovapostagemDTO
+{    /// <summary>
+     /// <para>Resumo: Classe espelho criar uma nova postagem</para>
+     /// <para>Criado por: Uriel Pereira</para>
+     /// <para>Versão: 1.0</para>
+     /// <para>Data: 29/04/2022</para>
+     /// </summary>
+    public class NovaPostagemDTO
     {
-        /// <summary>
-        /// <para>Resumo: Classe espelho criar uma nova postagem</para>
-        /// <para>Criado por: Uriel Pereira</para>
-        /// <para>Versão: 1.0</para>
-        /// <para>Data: 29/04/2022</para>
-        /// </summary>
-
         [Required, StringLength(30)]
         public string Titulo { get; set; }
 
@@ -19,23 +17,22 @@ namespace BLOG_PESSOAL_.src.dtos
 
         public string Foto { get; set; }
 
-        [Required]
+        [Required, StringLength(30)]
         public string EmailCriador { get; set; }
 
         [Required]
-        public string descricaoTema { get; set; }
+        public string DescricaoTema { get; set; }
 
-
-
-        public NovapostagemDTO(string titulo, string descricao, string foto, string emailCriador, int descricaoTema)
+        public NovaPostagemDTO(string titulo, string descricao, string foto, string emailCriador, string descricaoTema)
         {
             Titulo = titulo;
             Descricao = descricao;
             Foto = foto;
             EmailCriador = emailCriador;
-            descricaoTema = descricaoTema;
+            DescricaoTema = descricaoTema;
         }
     }
+
     /// <summary>
     /// <para>Resumo: Classe espelho para alterar uma postagem</para>
     /// <para>Criado por: Uriel Pereira</para>
@@ -44,6 +41,8 @@ namespace BLOG_PESSOAL_.src.dtos
     /// </summary>
     public class AtualizarPostagemDTO
     {
+        [Required]
+        public int Id { get; set; }
 
         [Required, StringLength(30)]
         public string Titulo { get; set; }
@@ -56,8 +55,9 @@ namespace BLOG_PESSOAL_.src.dtos
         [Required]
         public string DescricaoTema { get; set; }
 
-        public AtualizarPostagemDTO(string titulo, string descricao, string foto, string descricaoTema)
+        public AtualizarPostagemDTO(int id, string titulo, string descricao, string foto, string descricaoTema)
         {
+            Id = id;
             Titulo = titulo;
             Descricao = descricao;
             Foto = foto;

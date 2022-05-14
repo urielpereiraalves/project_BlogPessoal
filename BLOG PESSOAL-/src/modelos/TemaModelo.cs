@@ -5,6 +5,13 @@ using System.Text.Json.Serialization;
 
 namespace BLOG_PESSOAL_.src.modelos
 {
+    /// <summary>
+    /// <para>Resumo: Classe responsavel por representar tb_temas no banco.</para>
+    /// <para>Criado por: Uriel Pereira</para>
+    /// <para>Versão: 1.0</para>
+    /// <para>Data: 12/05/2022</para>
+    /// </summary>
+
     [Table("tb_temas")]
     public class TemaModelo
     {

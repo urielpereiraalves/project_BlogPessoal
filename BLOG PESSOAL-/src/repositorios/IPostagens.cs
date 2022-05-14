@@ -1,6 +1,7 @@
 ﻿using BLOG_PESSOAL_.src.dtos;
 using BLOG_PESSOAL_.src.modelos;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace BLOG_PESSOAL_.src.repositorios
 {
@@ -12,17 +13,13 @@ namespace BLOG_PESSOAL_.src.repositorios
     /// </summary>
     public interface IPostagens
     {
-        void NovaPostagem(NovaPostagemDTO postagem);
-        void AtualizarPostagem(AtualizarPostagemDTO postagem);
-        void DeletarPostagem(int id);
-        PostagemModelo PegarPostagemPeloId(int id);
-        List<PostagemModelo> PegarTodasPostagens();
-        List<PostagemModelo> PegarPostagensPorPesquisa(string titulo, string descricaoTema, string nomeCriador);
+        Task<List<PostagemModelo>> PegarTodasPostagensAsync();
+        Task<PostagemModelo> PegarPostagemPeloIdAsync(int id);
+        Task<List<PostagemModelo>> PegarPostagensPorPesquisaAsync(string titulo, string descricaoTema, string nomeCriador);
+        Task NovaPostagemAsync(NovaPostagemDTO postagem);
+        Task AtualizarPostagemAsync(AtualizarPostagemDTO postagem);
+        Task DeletarPostagemAsync(int id);
 
 
-    }
-
-    public class NovaPostagemDTO
-    {
     }
 }
